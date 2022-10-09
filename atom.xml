@@ -3,11 +3,11 @@
   <title>Elina</title>
   
   <subtitle>万事胜意，一路绿灯</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://breyce.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://breyce.github.io/"/>
   <updated>2022-10-09T07:12:48.767Z</updated>
-  <id>http://example.com/</id>
+  <id>http://breyce.github.io/</id>
   
   <author>
     <name>Elina</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>生日快乐</title>
-    <link href="http://example.com/posts/42dbb1c3.html"/>
-    <id>http://example.com/posts/42dbb1c3.html</id>
+    <link href="http://breyce.github.io/posts/42dbb1c3.html"/>
+    <id>http://breyce.github.io/posts/42dbb1c3.html</id>
     <published>2022-10-09T06:53:28.000Z</published>
     <updated>2022-10-09T07:12:48.767Z</updated>
     
