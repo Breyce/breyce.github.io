@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-09T07:09:22.028Z</updated>
+  <updated>2022-10-09T07:12:48.767Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/42dbb1c3.html"/>
     <id>http://example.com/posts/42dbb1c3.html</id>
     <published>2022-10-09T06:53:28.000Z</published>
-    <updated>2022-10-09T07:09:22.028Z</updated>
+    <updated>2022-10-09T07:12:48.767Z</updated>
     
     <content type="html"><![CDATA[<p>生日快乐！！<br>今年为什么想到这个东西了呢，其实有很多原因啦。</p><p><strong>第一个是因为时间问题：</strong><br>感觉到了大三现在我貌似有好多考核还有实验还有作业blabla所以我没什么大块的时间来写好多好多页面了，这个时候我就想到，如果不是我来写，而是用我学会的东西维护一个页面岂不美哉？</p><p>嘿嘿</p><p>机智如我就想到了去整一个网页来。</p><p><strong>第二个是因为你说了好几次个人主页的事情：</strong><br>不知道这个是不是你理解的个人主页，但我觉得恰不多了哈哈哈哈。个人主页嘛，我就搭一个博客给你，什么功能都能给你整上，还能给你装饰一下。关键是！维护起来比较容易？或许，也许，大概。我猜会容易一些。</p><p>所以我就建了这么一个博客。</p><p>虽然说代码是可以生成的，但是整个过程也花了我一周左右呢！不要想的太简单嗷，还是遇到好多bug的。</p><p><strong>第三个是因为这个博客比我自己设计到手写要好看一些</strong><br>不能说毫无审美，只能说我要是自己搭可能到最后还不敌这个页面呢。</p><p>寻思着如果费半天劲貌似搭不出大快人心的页面，那岂不是白费功夫？有损原来的主页面的威严。所以我还是来给你搭页面了。</p><p><strong>最后，简单走一下流程</strong><br>祝你生日快乐！万事胜意~</p><p>写不出什么感动的话了，感觉说多了肉麻，但是技术力还是可以满满的有的。争取明年今天给你我自己搭的个人主页？？不一定，明年今天应该期待一下硬件设备哈哈哈哈哈。毕竟你看到的这个页面人家后面是个团队哇哇哇。</p><p>一人难顶万千英雄汉</p><p>理解，理解一下。</p><p><strong>有些事情写在这里</strong></p><ol><li>那个追番内容是我的，如果要你的你最好发给我一些东西嗷，具体内容微信问我；</li><li>歌单是某个教程的，不是我的，我还没想好怎么弄这个歌单，不过无伤大雅；</li><li>下面那个小女孩是网上的模型，想换的话也可以找我，我抽时间换一下哈哈哈；</li><li>好像没什么了，我为什么写个4；</li><li>整个主题如果不爽的话也可以换一个别的主题，只是因为这个主题的内容比较全面而已；</li><li>哦对了，以后如果要用到这个博客发布内容什么的可以直接让我帮你维护哈哈哈；</li></ol>]]></content>
     
@@ -30,26 +30,6 @@
       
     <summary type="html">&lt;p&gt;生日快乐！！&lt;br&gt;今年为什么想到这个东西了呢，其实有很多原因啦。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一个是因为时间问题：&lt;/strong&gt;&lt;br&gt;感觉到了大三现在我貌似有好多考核还有实验还有作业blabla所以我没什么大块的时间来写好多好多页面了，这个时候我就想到，如果不是</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
-    <published>2022-10-09T04:56:52.287Z</published>
-    <updated>2022-10-09T05:15:40.265Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
